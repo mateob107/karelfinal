@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ turnRight()
+comment1.params=
+comment1.target=void\ carpetRoom()
+comment2.params=
+comment2.target=boolean\ checkRoom()
+comment3.params=
+comment3.target=boolean\ checkLeftWall()
+comment4.params=
+comment4.target=boolean\ checkRightWall()
+comment5.params=
+comment5.target=void\ work()
+numComments=6
